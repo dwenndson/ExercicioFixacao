@@ -1,0 +1,16 @@
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ExercicioFixação.exe
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ExercicioFixação.deps.json
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ExercicioFixação.runtimeconfig.json
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ExercicioFixação.runtimeconfig.dev.json
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ExercicioFixação.dll
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ref\ExercicioFixação.dll
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ExercicioFixação.pdb
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.csprojAssemblyReference.cache
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.AssemblyInfoInputs.cache
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.AssemblyInfo.cs
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.csproj.CoreCompileInputs.cache
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.dll
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ref\ExercicioFixação.dll
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.pdb
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.genruntimeconfig.cache
