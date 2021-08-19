@@ -1,0 +1,16 @@
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\bin\Debug\net5.0\estudoFixacaoMatriz.exe
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\bin\Debug\net5.0\estudoFixacaoMatriz.deps.json
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\bin\Debug\net5.0\estudoFixacaoMatriz.runtimeconfig.json
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\bin\Debug\net5.0\estudoFixacaoMatriz.runtimeconfig.dev.json
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\bin\Debug\net5.0\estudoFixacaoMatriz.dll
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\bin\Debug\net5.0\ref\estudoFixacaoMatriz.dll
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\bin\Debug\net5.0\estudoFixacaoMatriz.pdb
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\obj\Debug\net5.0\estudoFixacaoMatriz.csprojAssemblyReference.cache
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\obj\Debug\net5.0\estudoFixacaoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\obj\Debug\net5.0\estudoFixacaoMatriz.AssemblyInfoInputs.cache
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\obj\Debug\net5.0\estudoFixacaoMatriz.AssemblyInfo.cs
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\obj\Debug\net5.0\estudoFixacaoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\obj\Debug\net5.0\estudoFixacaoMatriz.dll
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\obj\Debug\net5.0\ref\estudoFixacaoMatriz.dll
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\obj\Debug\net5.0\estudoFixacaoMatriz.pdb
+C:\Users\Diego Wenndson\source\repos\ExercicioFixação\estudoFixacaoMatriz\obj\Debug\net5.0\estudoFixacaoMatriz.genruntimeconfig.cache
